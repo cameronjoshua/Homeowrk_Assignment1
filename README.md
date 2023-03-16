@@ -4,11 +4,11 @@ The links at the top take you straight to your desired topic
 I added semantic html, and css elements and restructured the starter code 
 ![image](https://user-images.githubusercontent.com/117694198/225491902-363abd0b-0ac5-46f5-8edf-a3bdf5340c91.png)
 
-#Link to site
+# Link to site
 file:///C:/Homework-assignment1/urban-octo-telegram/Develop/index.html
 
-#Author
+# Author
 Cameron Dassow
 
-#License
+# License
 MIT License
